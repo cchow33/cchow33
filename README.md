@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Carmen
-- 🌱 I’m currently learning React
--
-[![@cchow33's Holopin board](https://holopin.io/api/user/board?user=cchow33)](https://holopin.io/@cchow33)
+- 👋 Hi, I’m Carmen a Front-end developer based in Toronto. I'm currently working on a fullstack MERN app. I love building applications using the following technologies:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,express,figma,git,github,nextjs,postman,react,redux,tailwind,vscode)](https://skillicons.dev)
