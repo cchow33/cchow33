@@ -2,4 +2,4 @@
 - 💻 I'm currently learning TypeScript, NextJS, and PostgreSQL 
 - ⚡ I've built applications using the following technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,git,github,postman,mongodb,nodejs,react,redux,tailwind,typescript, figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,git,github,postman,mongodb,nodejs,react,redux,tailwind,typescript,figma&theme=light)](https://skillicons.dev)
